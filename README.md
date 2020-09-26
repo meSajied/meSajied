@@ -1,16 +1,52 @@
-### Hi there 👋
+<h1 style="color:green">
+Bonjour! mon invité...
+</h1>
 
-<!--
-**meSajied/meSajied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="430" src="https://github-readme-stats.vercel.app/api?username=meSajied&&show_icons=false&title_color=006400&text_color=006400&count_private=true&hide_title=true&hide_border=true"/>
 
-Here are some ideas to get you started:
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=004C99&labelColor=001933&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/sajied-shah-yousuf-04425b178/)
+[![Outlook](https://img.shields.io/badge/%20-Send%20Mail-black?color=3399ff&labelColor=0066cc&logo=microsoft&logoColor=f5f7fe)](mailto:me_sajied@outlook.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+[![GitHub Statistics](https://img.shields.io/badge/%20-Statistics-black?color=006600&labelColor=003300&logo=github&logoColor=f5f7fe)](https://profile-summary-for-github.com/user/meSajied)
+<!--- 
+![Profile views](https://gpvc.arturio.dev/meSajied)
+--->
+<p align="left">
+I do computation, experiment efficiency of code and study on optimizing computational models.<br> 
+I also work on machine intelligence and computational engineering. Like to increase research skill and interested in computer security and networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I always use programming languages on its own purpose...
+
++ Learned build tools<br>
++ Learned qt and docker<br>
++ Working on projects using node.js and react.js<br>
++ Developing personal website<br>
++ reading scientific papers(took a break)
+</p>
+
+
+
+<h3 style="color:green"><b>
+Tools
+</b></h3>
+
+<img align="right" height = "140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSajied&hide=jupyter notebook,html,makefile,css,scss,less,tex&hide_title=true&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&langs_count=5&hide_border=true" />
+
++ <t style="color:green">OS</t>: GNU/Linux<br>
++ <t style="color:green">IDEs</t>: JetBrains<br>
++ <t style="color:green">Editors</t>: VS Code, Vim<br>
++ <t style="color:green">Server</t>: NginX, NodeJs<br>
++ <t style="color:green">Numerical Computation</t>: GNU/Octave
+
+
+<h3 style="color:green"><b>
+On Mechine
+</b></h3>
+
+```
+languages: c(relevant), c++(relevant), java(relevant), python(relevant), javascript(basic)
+build-tools: cmake, maven
+libraries: tensorflow, node.js, react.js, qt
+databases: mysql, mongodb
+plateforms: docker
+sdks: android
+```
