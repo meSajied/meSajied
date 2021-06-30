@@ -16,11 +16,9 @@ I also work on machine intelligence and computational engineering. Like to incre
 
 > I always use programming languages on its own purpose...
 
-+ Learned build tools<br>
-+ Learned qt and docker<br>
-+ Working on projects using node.js and react.js<br>
++ Learning reinforcement learning<br>
++ Working on university attendance and database system<br>
 + Developing personal website<br>
-+ reading scientific papers(took a break)
 </p>
 
 
