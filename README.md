@@ -43,7 +43,7 @@ On Mechine
 ```
 languages: c(relevant), c++(relevant), java(relevant), python(relevant), javascript(basic)
 build-tools: cmake, maven
-libraries: tensorflow, node.js, react.js, qt
+frameworks: tensorflow, node.js, react.js, qt
 databases: mysql, mongodb
 plateforms: docker
 sdks: android
