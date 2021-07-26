@@ -32,7 +32,6 @@ Tools
 + <t style="color:green">OS</t>: GNU/Linux<br>
 + <t style="color:green">IDEs</t>: JetBrains<br>
 + <t style="color:green">Editors</t>: VS Code, Vim<br>
-+ <t style="color:green">Server</t>: NginX<br>
 + <t style="color:green">Numerical Computation</t>: GNU/Octave
 
 
