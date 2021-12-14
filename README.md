@@ -15,10 +15,6 @@ I do computation, experiment efficiency of code and study on optimizing computat
 I also work on machine intelligence and computational engineering. Like to increase research skill and interested in computer security and networking.
 
 > I always use programming languages on its own purpose...
-
-+ Learning reinforcement learning<br>
-+ Working on university attendance and database system<br>
-+ Developing personal website<br>
 </p>
 
 
