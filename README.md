@@ -12,7 +12,7 @@ Bonjour! mon invité...
 --->
 <p align="left">
 I do computation, experiment efficiency of code and study on optimizing computational models.<br> 
-&nbsp;&nbsp;&nbsp;I also work on machine intelligence and computational engineering. Like to increase research skill and interested in computer security and networking.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I also work on machine intelligence and computational engineering. Like to increase research skill and interested in computer security and networking.
 
 > I always use programming languages on its own purpose...
 </p>
