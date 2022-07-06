@@ -18,7 +18,9 @@ I do computation, experiment efficiency of code and study on optimizing computat
 </p>
 
 <h3>Status</h3>
+<p>
 > I will be active again in August...
+</p>
 
 <h3 style="color:green"><b>
 Tools
