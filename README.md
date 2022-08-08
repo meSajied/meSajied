@@ -17,11 +17,6 @@ I do computation, experiment efficiency of code and study on optimizing computat
 > I always use programming languages on its own purpose...
 </p>
 
-<h3>Status</h3>
-<p>
-I will be active again in August...
-</p>
-
 <h3 style="color:green"><b>
 Tools
 </b></h3>
