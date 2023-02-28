@@ -31,10 +31,6 @@ Tools
 + <t style="color:green">Numerical Computation</t>: GNU/Octave
 </p>
 
-<p align="right">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meSajied&hide=html,makefile,css,scss,less,tex&hide_title=true&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&langs_count=5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
- </p>
 <h3 style="color:green"><b>
 On Mechine
 </b></h3>
