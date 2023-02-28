@@ -21,7 +21,7 @@ I do computation, experiment efficiency of code and study on optimizing computat
 Tools
 </b></h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meSajied&hide=jupyter notebook,html,makefile,css,scss,less,tex&hide_title=true&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&langs_count=5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" height = "140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSajied&hide=jupyter notebook,html,makefile,css,scss,less,tex&hide_title=true&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&langs_count=5&hide_border=true" />
 
