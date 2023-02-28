@@ -23,7 +23,7 @@ Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meSajied&hide=html,makefile,css,scss,less,tex&hide_title=true&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&langs_count=5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" height = "140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSajied&hide=jupyter notebook,html,makefile,css,scss,less,tex&hide_title=true&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&langs_count=5&hide_border=true" />
+<img align="right" height = "140" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meSajied&hide=html,makefile,css,scss,less,tex&hide_title=true&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&langs_count=5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) />
 
 + <t style="color:green">OS</t>: GNU/Linux<br>
 + <t style="color:green">IDEs</t>: JetBrains<br>
