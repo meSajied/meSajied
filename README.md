@@ -35,8 +35,15 @@ On Mechine
 ```
 languages: c(relevant), c++(relevant), java(relevant), python(relevant), javascript(basic)
 build-tools: cmake, maven
-frameworks: tensorflow, node.js, react.js, qt
+frameworks and architecture: tensorflow, node.js, react.js, spring, spring-boot, microservice
 databases: mysql, mongodb
-plateforms: docker
+plateforms and cloud: docker, kubernetes, aws
 sdks: android
 ```
+
+<h3 style="color:green"><b>
+
++ <t style="color:green">fixing bugs<br>
++ <t style="color:green">writing elasticsearch<br>
+Current Status:
+</b></h3>
