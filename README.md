@@ -45,6 +45,6 @@ sdks: android
 Current Status:
 </b></h3>
 ```
-+ <t style="color:green">fixing bugs<br>
-+ <t style="color:green">writing elasticsearch<br>
+fixing bugs
+writing elasticsearch
 ```
