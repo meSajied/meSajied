@@ -44,7 +44,7 @@ sdks: android
 <h3 style="color:green"><b>
 Current Status:
 </b></h3>
-```
-fixing bugs
-writing elasticsearch
-```
+
++ <t style="color:green"> Fixing bugs.
++ <t style="color:green">Implementing elasticsearch
+
