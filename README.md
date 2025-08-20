@@ -45,6 +45,5 @@ sdks: android
 Current Status:
 </b></h3>
 
-+ <t style="color:green"> Fixing bugs.
-+ <t style="color:green">Implementing elasticsearch
++ <t style="color:green"> Optimizing apis
 
