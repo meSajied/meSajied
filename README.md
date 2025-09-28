@@ -19,6 +19,8 @@ I do computation, experiment efficiency of code and study on optimizing computat
 
 You can visit my [Portfolio](https://portfolio-dops.onrender.com/)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSajied&hide=html,makefile,css,scss,less,tex&hide_title=true&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&langs_count=5&hide_border=true" />
+
 <h3 style="color:green"><b>
 Tools
 </b></h3>
@@ -26,8 +28,6 @@ Tools
 + <t style="color:green">OS</t>: GNU/Linux(Manjaro)<br>
 + <t style="color:green">IDEs</t>: JetBrains<br>
 + <t style="color:green">Editors</t>: VS Code, Vim<br>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSajied&hide=html,makefile,css,scss,less,tex&hide_title=true&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&langs_count=5&hide_border=true" />
 
 
 
